@@ -3,7 +3,7 @@ This is an app where we can upload an image from frontend and recieve on server 
 In this app we used multur for file handling and cloudinary for cloud upload service.
 ## Run This project
  ```bash
-  clone git https://github.com/shivam1tiwari/upload-image-microservices.git
+  git clone https://github.com/shivam1tiwari/upload-image-microservices.git
   cd upload-image-microservices
 ```
 ## For Frontend
